@@ -3,7 +3,7 @@
 <p align="center">
 	<b>PR-YON is a programming language inspired by  <a href="https://github.com/virejdasani/pythOwO"> (PythOwO) </a></b>
 </p>
-![Untitled drawing](https://github.com/Person76809/PR-YON/assets/101030146/91ec4543-5d13-4737-be99-38d429a6d989)
+[![](https://github.com/Person76809/PR-YON/assets/101030146/91ec4543-5d13-4737-be99-38d429a6d989)
 
 [![](https://raw.githubusercontent.com/virejdasani/pythOwO/main/aswets/imwages/pythowo-banner.png)](https://www.youtube.com/watch?v=czZmkh7CY6M)
 
