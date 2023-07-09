@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <b>pythOwO is an uwu programming language written in Python. UwU.</b>
+  <b>This programming language is written in python.</b>
 </p>
 
 <p align="center">
