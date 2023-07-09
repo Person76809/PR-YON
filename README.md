@@ -1,11 +1,12 @@
 
 
 <p align="center">
-	<b>PR-YON is a programming language inspired by  <a href="https://github.com/virejdasani/pythOwO"> (PythOwO) </a></b>
+	<b>PR-YON is a programming language inspired by <a href="https://github.com/virejdasani/pythOwO"> (PythOwO) </a></b>
 </p>
-[![](https://github.com/Person76809/PR-YON/assets/101030146/91ec4543-5d13-4737-be99-38d429a6d989)
 
-[![](https://raw.githubusercontent.com/virejdasani/pythOwO/main/aswets/imwages/pythowo-banner.png)](https://www.youtube.com/watch?v=czZmkh7CY6M)
+
+[![](https://raw.githubusercontent.com/virejdasani/pythOwO/main/aswets/imwages/pythowo-banner.png)](https://www.youtube.com/watch?v=czZmkh7CY6M)![Untitled drawing](https://github.com/Person76809/PR-YON/assets/101030146/4a78d8b3-edaf-47c3-b506-5454be3d931f)
+
 
 <p align="center">
   <b>pythOwO is an uwu programming language written in Python. UwU.</b>
@@ -152,5 +153,5 @@ python -m unittest
 
 ---
 
-> PR-YON logo was made in CanVa 
+> PR-YON logo was made in Canva 
 <h5 align="left">PR-YON</h5>
