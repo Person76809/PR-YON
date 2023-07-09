@@ -1,11 +1,9 @@
-# PR-YON
-PR-YON is a programming language inspired by python 
 
-<h1 align="center"><a href="https://youtu.be/czZmkh7CY6M">pythOwO</a></h1>
 
 <p align="center">
-	<b>See how pythOwO was made <a href="https://youtu.be/czZmkh7CY6M"> (2 min video) </a></b>
+	<b>PR-YON is a programming language inspired by  <a href="https://github.com/virejdasani/pythOwO"> (PythOwO) </a></b>
 </p>
+![Untitled drawing](https://github.com/Person76809/PR-YON/assets/101030146/91ec4543-5d13-4737-be99-38d429a6d989)
 
 [![](https://raw.githubusercontent.com/virejdasani/pythOwO/main/aswets/imwages/pythowo-banner.png)](https://www.youtube.com/watch?v=czZmkh7CY6M)
 
@@ -154,10 +152,5 @@ python -m unittest
 
 ---
 
-> Pythowo logo [credit](https://www.reddit.com/r/ProgrammerHumor/comments/vkkyyv/say_hello_to_pythowo_make_sure_to_treat_her_well/)
-
-> Thank youwu @Haddle for making VSCode language support for PythOwO
-
-> Thank youwu @Tulip-0333 for helping with putting PythOwO up on PyPi
-
-<h5 align="left">uwu</h5>
+> PR-YON logo was made in CanVa 
+<h5 align="left">PR-YON</h5>
