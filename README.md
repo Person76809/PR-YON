@@ -5,7 +5,7 @@
 </p>
 
 
-[![](https://raw.githubusercontent.com/virejdasani/pythOwO/main/aswets/imwages/pythowo-banner.png)](https://www.youtube.com/watch?v=czZmkh7CY6M)![Untitled drawing](https://github.com/Person76809/PR-YON/assets/101030146/4a78d8b3-edaf-47c3-b506-5454be3d931f)
+[![](https://github.com/Person76809/PR-YON/assets/101030146/4a78d8b3-edaf-47c3-b506-5454be3d931f)](https://www.youtube.com/watch?v=czZmkh7CY6M)![Untitled drawing](https://github.com/Person76809/PR-YON/assets/101030146/4a78d8b3-edaf-47c3-b506-5454be3d931f)
 
 
 <p align="center">
