@@ -4,9 +4,9 @@
 	<b>PR-YON is a programming language inspired by <a href="https://github.com/virejdasani/pythOwO"> (PythOwO) </a></b>
 </p>
 
-
+<p align="center">
 [![](https://github.com/Person76809/PR-YON/assets/101030146/4a78d8b3-edaf-47c3-b506-5454be3d931f)](https://github.com/Person76809/PR-YON)
-
+</p>
 
 <p align="center">
   <b>This programming language is written in python.</b>
