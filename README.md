@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=Haddle.pyowo">PR-YON is not yet supported on VSCode</a>
+  <a href="https://example.com/">PR-YON is not yet supported on VSCode</a>
 </p>
 <p align="center">
-  <a href="https://pypi.org/project/PythOwO/">PythOwO on PyPi</a><br>
+  <a href="https://example.com/">Not yet on PyPi</a><br>
 </p>
 
 ```bash
