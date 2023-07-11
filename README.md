@@ -20,7 +20,7 @@
 </p>
 
 ```bash
-pip install PythOwO
+pip install PR-YON
 ```
 
 <h2 align="center">Uwusage</h2>
