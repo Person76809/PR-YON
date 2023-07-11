@@ -5,7 +5,7 @@
 </p>
 
 
-[![](https://https://raw.githubusercontent.com/Person76809/PR-YON/main/bannerlogo%20(1).png)](https://github.com/Person76809/PR-YON)
+[![](https://raw.githubusercontent.com/Person76809/PR-YON/main/Untitled%20drawing.png)](https://github.com/Person76809/PR-YON)
 
 
 <p align="center">
